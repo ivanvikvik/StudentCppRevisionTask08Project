@@ -40,5 +40,5 @@
  */
 
 int task04(int n, int m, int x, int y) {
-	return -1;
+	return 0;
 }

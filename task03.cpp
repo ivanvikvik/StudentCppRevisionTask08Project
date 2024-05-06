@@ -26,5 +26,5 @@
  */
 
 string task03(int a, int b, int c) {
-	return "";
+	return to_string(a) + " " + to_string(b) + " " + to_string(c);
 }
